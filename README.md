@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @h1dd3nr34p3r
 - 👀 I’m interested in Cybersecurity, Programming & Web Development 
-- 🌱 I’m currently learning C, Python, Rust, Javascript
+- 🌱 I’m currently learning C, Python, Rust, Javascript, PHP & Bash
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
